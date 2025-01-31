@@ -49,8 +49,7 @@ LSTMNetwork
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/lstm-implementation.git
-
+https://github.com/dhruvjore/Layer-Normalized-Bidirectional-Stacked-LSTM-with-Custom-Cell-and-Dropout.git
 ```
 
 ## 📊 Usage Example
